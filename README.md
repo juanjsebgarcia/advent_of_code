@@ -1,5 +1,5 @@
-# advent_of_code
-Advent of code challenges
+# Advent of Code
+Having some fun with the advent of code challenges.
 
 # Code Notice
 My goal for advent of code is to complete the challenges for *fun*. Thus, code
